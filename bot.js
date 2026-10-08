@@ -2,7 +2,7 @@ const axios = require('axios');
 
 const BOT_TOKEN = '8949074961:AAEeAix4NznerOzw92wovcWF_qjmFwHPa48';
 const API = `https://api.telegram.org/bot${BOT_TOKEN}`;
-const WEB_URL = 'https://onecompiler.com/html';
+const WEB_URL = 'https://tall-bronze-rimxuyyl.edgeone.dev/';
 
 const mainKeyboard = {
   keyboard: [
